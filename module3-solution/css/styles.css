@@ -41,5 +41,5 @@ body {
 .row {
   margin: 5px;
   background-color: rgb(209, 204, 197);
-  font-size: 2.0vw;
+  height: 1000px;
 }
