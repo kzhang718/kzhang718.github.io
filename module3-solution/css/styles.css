@@ -1,0 +1,44 @@
+body {
+  font-family: 'Lora', serif;
+  color: rgb(92, 83, 76);
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-brand span {
+  font-size: 1.5em;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: rgb(189, 151, 77);
+}
+
+#nav-list li {
+  margin: 5px 0px 5px;
+  font-size: 1.5em;
+}
+
+#nav-list li:hover {
+  background-color: rgb(218, 218, 218);
+}
+
+#nav-list li span {
+  color: white;
+}
+
+#main-content {
+  margin-top: 80px;
+}
+
+.page-heading {
+  margin-top: -20px;
+}
+
+.row {
+  margin: 5px;
+  background-color: rgb(209, 204, 197);
+}
